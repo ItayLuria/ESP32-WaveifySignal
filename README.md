@@ -10,7 +10,8 @@
 ### Real-Time preview
  the grid is reacting to physical proximity by visualizing the invisible electrostatic field:
  
-<img src="assets/demo.gif" width="100%" style="border-radius: 10px;" alt="WaveifySignal Real-time Interaction" />
+<img width="800" height="450" alt="wave" src="https://github.com/user-attachments/assets/344bd9be-7207-46b3-8400-8ca0ced61b93" />
+
 
 ---
 
