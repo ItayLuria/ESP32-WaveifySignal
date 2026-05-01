@@ -8,7 +8,7 @@
 
 <img width="800" height="450" alt="wave" src="https://github.com/user-attachments/assets/9349af4f-43ae-420d-b0e9-3f6ecafbeba8" />
 
-*The grid reacts to physical proximity, visualizing the invisible electrostatic field.*
+The grid reacts to physical proximity, visualizing the invisible electrostatic field.
 
 ---
 
