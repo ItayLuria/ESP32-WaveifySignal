@@ -9,6 +9,7 @@
 
 ### Real-Time preview
  the grid is reacting to physical proximity by visualizing the invisible electrostatic field:
+ 
 <img src="assets/demo.gif" width="100%" style="border-radius: 10px;" alt="WaveifySignal Real-time Interaction" />
 
 ---
@@ -55,4 +56,4 @@ To build this device, connect your touch interface to the following pinout:
 - **WebSocket Migration:** Moving from HTTP fetch cycles to WebSockets for near-zero latency.
 - **Multi-Node Arrays:** Supporting multiple capacitive pins to visualize complex wave interference patterns.
 
----<img width="800" height="450" alt="wave" src="https://github.com/user-attachments/assets/fb554223-4e27-4293-9dbf-f19b54a27bba" />
+---
